@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Atul's Blog
+title: Atul's Tech Stories
 email: atulvermaonmail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learn Programming concepts the easy way.
@@ -30,6 +30,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atul05kumar
 github_username:  atul05kumar
 google_analytics: UA-161919841-1
+
+youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+youtube_channel_name: CloudCannon
 # Build settings
 theme: minima
 #theme: jekyll-theme-cayman
